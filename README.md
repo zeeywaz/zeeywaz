@@ -3,7 +3,7 @@ I'm **Zeidh**, a passionate **Machine Learning Enthusiast** focused on AI develo
 Currently working on exciting projects like **AI assistants** and **emotion detection models** — feel free to explore my work and connect!
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeidhwaz) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_zeidhwaz_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeidh-wazeer-041928282/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zeidhwaz16@gmail.com)
 # 💻 Tech Stack:
